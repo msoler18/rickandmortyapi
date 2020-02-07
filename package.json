@@ -4,7 +4,8 @@
   "description": "Working with async js",
   "main": "src/index.js",
   "scripts": {
-    "callback": "node src/callbacks/index.js"
+    "callback": "node src/callbacks/index.js",
+    "callbacks:api" : "node src/callbacks/api.js"
   },
   "keywords": [
     "callbacks",
